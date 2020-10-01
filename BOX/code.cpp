@@ -102,6 +102,9 @@ void check2()
 }
 
 int main()
-{
+{       clrscr();
 	check2();
+        getch();
+        return 0;
+
 }
